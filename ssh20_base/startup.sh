@@ -16,7 +16,7 @@ cp /opt/docker/system-auth /etc/pam.d/password-auth
 /sbin/nscd
 /sbin/nslcd
 
-/usr/sbin/ssh-keygen -A
+/usr/bin/ssh-keygen -A
 /sbin/sshd -D
 #/bin/bash
 
