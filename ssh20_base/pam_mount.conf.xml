@@ -30,7 +30,7 @@
 
 		<!-- muntar només per a pere ~/pere/mydoc NFS 172.18.0.1:/usr/share/doc -->
 		<volume	
-		  user="pere"
+		  user="unix02"
                   fstype="nfs"
                   server="172.18.0.1"
                   path="/usr/share/doc"
