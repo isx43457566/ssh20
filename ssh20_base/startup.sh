@@ -19,4 +19,3 @@ cp /opt/docker/system-auth /etc/pam.d/password-auth
 /usr/bin/ssh-keygen -A
 /sbin/sshd -D
 #/bin/bash
-
